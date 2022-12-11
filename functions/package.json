@@ -15,7 +15,7 @@
     "@google-cloud/vision": "^1.11.0",
     "axios": "^0.21.2",
     "cheerio": "^1.0.0-rc.3",
-    "firebase-admin": "^8.10.0",
+    "firebase-admin": "^11.3.0",
     "firebase-functions": "^3.6.1",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
